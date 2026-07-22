@@ -9,7 +9,6 @@ const services = [
   { number: "04", title: "AI Search Optimization", copy: "Structure your expertise so your business can be discovered and cited across AI answers and modern search experiences.", tags: ["GEO", "AEO", "Schema markup"] },
 ];
 
-const process = [
 const growthProcess = [
   ["01", "Find the real opportunity", "We audit your search presence, competitors, market, and website to find the clearest path to growth."],
   ["02", "Forge the strategy", "We turn the findings into a focused roadmap across technical SEO, content, local visibility, and conversion."],
